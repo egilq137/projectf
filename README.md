@@ -1,2 +1,2 @@
 # projectf
-Fun with network commands.
+fun with network commands.
